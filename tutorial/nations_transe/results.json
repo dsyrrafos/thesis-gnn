@@ -1,0 +1,297 @@
+{
+  "losses": [
+    0.006347718625212434,
+    0.006098580195676142,
+    0.00605510646973423,
+    0.0060081355386043915,
+    0.005581823350796149
+  ],
+  "metrics": {
+    "adjusted_arithmetic_mean_rank": {
+      "both": {
+        "realistic": 1.0411111111111113
+      },
+      "head": {
+        "realistic": 1.0770988006853226
+      },
+      "tail": {
+        "realistic": 1.0070308274743103
+      }
+    },
+    "adjusted_arithmetic_mean_rank_index": {
+      "both": {
+        "realistic": -0.05293276108726763
+      },
+      "head": {
+        "realistic": -0.10007412898443291
+      },
+      "tail": {
+        "realistic": -0.00898410504492042
+      }
+    },
+    "arithmetic_mean_rank": {
+      "both": {
+        "optimistic": 4.661691542288557,
+        "pessimistic": 4.661691542288557,
+        "realistic": 4.661691542288557
+      },
+      "head": {
+        "optimistic": 4.691542288557214,
+        "pessimistic": 4.691542288557214,
+        "realistic": 4.691542288557214
+      },
+      "tail": {
+        "optimistic": 4.6318407960199,
+        "pessimistic": 4.6318407960199,
+        "realistic": 4.6318407960199
+      }
+    },
+    "geometric_mean_rank": {
+      "both": {
+        "optimistic": 3.9157869530283356,
+        "pessimistic": 3.9157869530283356,
+        "realistic": 3.9157869530283356
+      },
+      "head": {
+        "optimistic": 3.8840348047631004,
+        "pessimistic": 3.8840348047631004,
+        "realistic": 3.8840348047631004
+      },
+      "tail": {
+        "optimistic": 3.9477986764441915,
+        "pessimistic": 3.9477986764441915,
+        "realistic": 3.9477986764441915
+      }
+    },
+    "harmonic_mean_rank": {
+      "both": {
+        "optimistic": 3.3562334862463437,
+        "pessimistic": 3.3562334862463437,
+        "realistic": 3.3562334862463437
+      },
+      "head": {
+        "optimistic": 3.2916721408682523,
+        "pessimistic": 3.2916721408682523,
+        "realistic": 3.2916721408682523
+      },
+      "tail": {
+        "optimistic": 3.423378050845079,
+        "pessimistic": 3.423378050845079,
+        "realistic": 3.423378050845079
+      }
+    },
+    "hits_at_k": {
+      "both": {
+        "optimistic": {
+          "1": 0.0,
+          "3": 0.4552238805970149,
+          "5": 0.6990049751243781,
+          "10": 0.9402985074626866
+        },
+        "pessimistic": {
+          "1": 0.0,
+          "3": 0.4552238805970149,
+          "5": 0.6990049751243781,
+          "10": 0.9402985074626866
+        },
+        "realistic": {
+          "1": 0.0,
+          "3": 0.4552238805970149,
+          "5": 0.6990049751243781,
+          "10": 0.9402985074626866
+        }
+      },
+      "head": {
+        "optimistic": {
+          "1": 0.0,
+          "3": 0.4577114427860697,
+          "5": 0.7014925373134329,
+          "10": 0.9353233830845771
+        },
+        "pessimistic": {
+          "1": 0.0,
+          "3": 0.4577114427860697,
+          "5": 0.7014925373134329,
+          "10": 0.9353233830845771
+        },
+        "realistic": {
+          "1": 0.0,
+          "3": 0.4577114427860697,
+          "5": 0.7014925373134329,
+          "10": 0.9353233830845771
+        }
+      },
+      "tail": {
+        "optimistic": {
+          "1": 0.0,
+          "3": 0.4527363184079602,
+          "5": 0.6965174129353234,
+          "10": 0.945273631840796
+        },
+        "pessimistic": {
+          "1": 0.0,
+          "3": 0.4527363184079602,
+          "5": 0.6965174129353234,
+          "10": 0.945273631840796
+        },
+        "realistic": {
+          "1": 0.0,
+          "3": 0.4527363184079602,
+          "5": 0.6965174129353234,
+          "10": 0.945273631840796
+        }
+      }
+    },
+    "inverse_arithmetic_mean_rank": {
+      "both": {
+        "optimistic": 0.21451440768409819,
+        "pessimistic": 0.21451440768409819,
+        "realistic": 0.21451440768409819
+      },
+      "head": {
+        "optimistic": 0.21314952279957583,
+        "pessimistic": 0.21314952279957583,
+        "realistic": 0.21314952279957583
+      },
+      "tail": {
+        "optimistic": 0.2158968850698174,
+        "pessimistic": 0.2158968850698174,
+        "realistic": 0.2158968850698174
+      }
+    },
+    "inverse_geometric_mean_rank": {
+      "both": {
+        "optimistic": 0.2553765084759359,
+        "pessimistic": 0.2553765084759359,
+        "realistic": 0.2553765084759359
+      },
+      "head": {
+        "optimistic": 0.2574642221984396,
+        "pessimistic": 0.2574642221984396,
+        "realistic": 0.2574642221984396
+      },
+      "tail": {
+        "optimistic": 0.25330572350784275,
+        "pessimistic": 0.25330572350784275,
+        "realistic": 0.25330572350784275
+      }
+    },
+    "inverse_harmonic_mean_rank": {
+      "both": {
+        "optimistic": 0.2979530488858847,
+        "pessimistic": 0.2979530488858847,
+        "realistic": 0.2979530488858847
+      },
+      "head": {
+        "optimistic": 0.30379696312532134,
+        "pessimistic": 0.30379696312532134,
+        "realistic": 0.30379696312532134
+      },
+      "tail": {
+        "optimistic": 0.29210913464644805,
+        "pessimistic": 0.29210913464644805,
+        "realistic": 0.29210913464644805
+      }
+    },
+    "inverse_median_rank": {
+      "both": {
+        "optimistic": 0.25,
+        "pessimistic": 0.25,
+        "realistic": 0.25
+      },
+      "head": {
+        "optimistic": 0.25,
+        "pessimistic": 0.25,
+        "realistic": 0.25
+      },
+      "tail": {
+        "optimistic": 0.25,
+        "pessimistic": 0.25,
+        "realistic": 0.25
+      }
+    },
+    "median_rank": {
+      "both": {
+        "optimistic": 4.0,
+        "pessimistic": 4.0,
+        "realistic": 4.0
+      },
+      "head": {
+        "optimistic": 4.0,
+        "pessimistic": 4.0,
+        "realistic": 4.0
+      },
+      "tail": {
+        "optimistic": 4.0,
+        "pessimistic": 4.0,
+        "realistic": 4.0
+      }
+    },
+    "rank_mad": {
+      "both": {
+        "optimistic": 2.0,
+        "pessimistic": 2.0,
+        "realistic": 2.0
+      },
+      "head": {
+        "optimistic": 2.0,
+        "pessimistic": 2.0,
+        "realistic": 2.0
+      },
+      "tail": {
+        "optimistic": 2.0,
+        "pessimistic": 2.0,
+        "realistic": 2.0
+      }
+    },
+    "rank_std": {
+      "both": {
+        "optimistic": 2.8944921317691885,
+        "pessimistic": 2.8944921317691885,
+        "realistic": 2.8944921317691885
+      },
+      "head": {
+        "optimistic": 3.0081775956908947,
+        "pessimistic": 3.0081775956908947,
+        "realistic": 3.0081775956908947
+      },
+      "tail": {
+        "optimistic": 2.775834076530014,
+        "pessimistic": 2.775834076530014,
+        "realistic": 2.775834076530014
+      }
+    },
+    "rank_var": {
+      "both": {
+        "optimistic": 8.37808470087374,
+        "pessimistic": 8.37808470087374,
+        "realistic": 8.37808470087374
+      },
+      "head": {
+        "optimistic": 9.049132447216653,
+        "pessimistic": 9.049132447216653,
+        "realistic": 9.049132447216653
+      },
+      "tail": {
+        "optimistic": 7.705254820425236,
+        "pessimistic": 7.705254820425236,
+        "realistic": 7.705254820425236
+      }
+    }
+  },
+  "stopper": {
+    "best_epoch": null,
+    "best_metric": null,
+    "frequency": 10,
+    "larger_is_better": true,
+    "metric": "hits_at_k",
+    "patience": 2,
+    "relative_delta": 0.01,
+    "results": [],
+    "stopped": false
+  },
+  "times": {
+    "evaluation": 0.016144990921020508,
+    "training": 0.40167236328125
+  }
+}
