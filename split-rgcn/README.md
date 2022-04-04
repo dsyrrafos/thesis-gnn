@@ -4,6 +4,9 @@
 
 The proposed architecture is the one showing in the following picture
 
+![image](https://user-images.githubusercontent.com/49962629/161510756-abc1e3bf-3c71-4031-bc8a-d288be254fce.png)
+
+
 ## Results
 
 Some initial results from the proposed architecture according to the selected KG embedding model. The `Rel Emb Dim` and `Epochs` refer to the training of the KG embeddings, not the GCN, as well as the `Hits @ 10` metric. `Accuracy` is the classification accuracy achieved by the GCN model eventually.
