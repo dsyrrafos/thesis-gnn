@@ -1,0 +1,5 @@
+/data
+/literature
+/split-rgcn/data
+/split-rgcn/Models_pykeen
+*.txt
